@@ -1,6 +1,7 @@
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
 Grupo DeSoft: Aguirre Seas Angela Patricia, Quintanilla Ceron Nora, Ramirez Añez Silvia Lorena.
+Proyecto Fotografia
 For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
 (also available within the download package for offline use)
 
