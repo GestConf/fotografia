@@ -1,0 +1,53 @@
+/*
+* Base Color #00CAC0;
+* Hover base Color #199999
+*/
+
+#login, #password-recovery {
+    border: 1px solid #c3c3c3;
+    border-radius: 0.4em;
+    -moz-border-radius: 0.4em;
+    -webkit-border-radius: 0.4em;
+    -o-border-radius: 0.4em;
+    margin: 50px auto;
+    max-width: 500px;
+    padding: 15px;
+}
+
+.header-form-div {
+    text-align: center;
+    border-bottom: 1px solid #c3c3c3;
+    margin-bottom: 35px;
+    padding-bottom: 10px;
+}
+
+.header-form-label {
+    width: 100%;
+    color: black;
+    font-size: 36px;
+}
+
+.login-btn, .recovery-btn {
+    width: 100%;
+    /*background-color: #00CAC0;*/
+    border: none;
+}
+
+.login-btn:hover, .recovery-btn:hover {
+    background-color: #199999;
+}
+
+.login-btn-div {
+    text-align: center;
+    padding: 0px 50px;
+}
+
+.top-menu {
+    background-color: #00CAC0;
+    min-height: 45px;
+}
+
+/** trial stuffs **/
+.trial-top-message {
+    color: white;
+}
